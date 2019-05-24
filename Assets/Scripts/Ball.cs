@@ -10,6 +10,4 @@ public class Ball : MonoBehaviour {
     var myPathTween = GetComponent<DOTweenPath>().tween;
     myPathTween.timeScale = 0f;
   }
-
-
 }
